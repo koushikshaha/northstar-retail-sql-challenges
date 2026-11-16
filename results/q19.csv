@@ -1,0 +1,5 @@
+warehouse,region,delivered_orders,missing_promises,eligible_orders,late_orders,late_pct,on_time_pct,avg_days_late,p90_days_late,sample_flag
+North Hub,North,85,2,83,26,31.33,68.67,4.38,7.00,sufficient_sample
+North Hub,West,28,1,27,14,51.85,48.15,4.00,7.70,sufficient_sample
+South Hub,South,58,1,57,12,21.05,78.95,4.92,6.90,sufficient_sample
+South Hub,West,25,0,25,4,16.00,84.00,3.00,4.70,sufficient_sample

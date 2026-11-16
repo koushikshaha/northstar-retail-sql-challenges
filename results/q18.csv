@@ -1,0 +1,4 @@
+region,actual_margin_pct,standardized_margin_pct,actual_minus_standardized_pp,missing_categories,standardized_rank
+North,29.39,30.64,-1.25,,1
+West,29.95,28.81,1.14,,2
+South,30.02,28.39,1.63,,3

@@ -1,0 +1,5 @@
+product_a,product_b,orders_a,orders_b,shared_orders,support_pct,confidence_a_to_b_pct,confidence_b_to_a_pct,lift,rank
+1,11,35,36,23,11.73,65.71,63.89,3.5778,1
+7,8,51,48,37,18.88,72.55,77.08,2.9624,2
+9,17,11,23,3,1.53,27.27,13.04,2.3241,3
+1,10,35,20,3,1.53,8.57,15.00,0.8400,4

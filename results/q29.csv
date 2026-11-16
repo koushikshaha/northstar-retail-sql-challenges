@@ -1,0 +1,11 @@
+customer_id,affected_orders_q4,max_late_days,annual_orders,annual_contribution,repeat_issue_points,severity_points,value_points,frequency_points,total_score,priority_rank
+32,1,7,8,7594.00,0,2,2,1,5,1
+5,1,7,8,4428.00,0,2,2,1,5,2
+31,1,7,5,4303.50,0,2,2,1,5,3
+48,1,8,2,1099.00,0,2,2,0,4,4
+50,1,8,1,774.00,0,2,2,0,4,5
+37,1,6,4,4511.00,0,0,2,1,3,6
+21,1,6,4,2189.50,0,0,2,1,3,7
+16,1,6,5,2067.00,0,0,2,1,3,8
+27,1,4,3,1787.00,0,0,2,1,3,9
+44,1,6,3,712.00,0,0,2,1,3,10

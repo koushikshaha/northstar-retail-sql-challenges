@@ -1,0 +1,7 @@
+region,half,placed_orders,cancelled_orders,cancellation_pct,cancelled_quoted_value,placed_quoted_value,cancelled_value_share_pct,change_vs_h1_pp,sample_flag
+North,H1,46,4,8.70,5817.50,95150.00,6.11,,sufficient_sample
+North,H2,46,2,4.35,2845.00,102402.50,2.78,-4.35,sufficient_sample
+South,H1,23,1,4.35,1187.50,44220.00,2.69,,sufficient_sample
+South,H2,38,2,5.26,2380.00,67570.00,3.52,0.92,sufficient_sample
+West,H1,25,2,8.00,7050.00,56317.50,12.52,,sufficient_sample
+West,H2,32,2,6.25,3750.00,60562.50,6.19,-1.75,sufficient_sample

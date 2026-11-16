@@ -1,0 +1,4 @@
+region,gross_value,discounts,refunds,product_cost,shipping_charged,shipping_cost,net_revenue,contribution,margin_pct,discount_pct_of_gross,refund_pct_of_gross,product_cost_pct_of_gross,shipping_cost_pct_of_gross,shipping_net,rank
+North,202050.00,14060.00,19532.50,115590.00,3283.00,5670.00,171740.50,50480.50,29.39,6.96,9.67,57.21,2.81,-2387.00,1
+West,115050.00,8970.00,8587.50,64160.00,1960.00,5510.00,99452.50,29782.50,29.95,7.80,7.46,55.77,4.79,-3550.00,2
+South,116200.00,7977.50,12657.50,64620.00,2009.00,3660.00,97574.00,29294.00,30.02,6.87,10.89,55.61,3.15,-1651.00,3

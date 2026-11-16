@@ -1,0 +1,3 @@
+group_name,selected_cutoff_count,customers,orders,paid_value,net_revenue,contribution,margin_pct,sales_share_pct,contribution_share_pct
+remaining,11,43,114,207867.50,188549.00,56074.00,29.74,51.67,51.18
+top_20pct,11,11,82,194425.00,180218.00,53483.00,29.68,48.33,48.82

@@ -1,0 +1,13 @@
+region,half,purchase_type,orders,customers,paid_merchandise_value,contribution,returning_order_share_pct,returning_sales_share_pct
+North,H1,first_time,12,12,22480.00,6211.00,71.43,74.84
+North,H1,returning,30,12,66852.50,14911.00,71.43,74.84
+North,H2,first_time,6,6,12460.00,2504.00,86.05,87.37
+North,H2,returning,37,14,86197.50,26854.50,86.05,87.37
+South,H1,first_time,11,11,26570.00,6822.00,50.00,38.26
+South,H1,returning,11,5,16462.50,6057.00,50.00,38.26
+South,H2,first_time,7,7,14150.00,3023.00,80.56,78.29
+South,H2,returning,29,11,51040.00,13392.00,80.56,78.29
+West,H1,first_time,10,10,22377.50,7804.50,56.52,54.58
+West,H1,returning,13,7,26890.00,5860.00,56.52,54.58
+West,H2,first_time,8,8,16530.00,6287.50,73.33,70.90
+West,H2,returning,22,12,40282.50,9830.50,73.33,70.90

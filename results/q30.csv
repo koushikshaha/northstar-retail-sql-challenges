@@ -1,0 +1,6 @@
+rank,candidate_type,entity_name,affected_orders,exposure_inr,exposure_pct_of_company_net_revenue,suggested_owner
+1,category_refunds,Electronics,12,21640.00,5.87,Product Quality / Category Manager
+2,region_loss_orders,North,9,8424.50,2.28,Regional Commercial / Finance
+3,category_refunds,Fitness,10,7410.00,2.01,Product Quality / Category Manager
+4,category_refunds,Home,8,7047.50,1.91,Product Quality / Category Manager
+5,region_loss_orders,South,9,5538.00,1.50,Regional Commercial / Finance

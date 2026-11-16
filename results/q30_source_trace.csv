@@ -1,0 +1,228 @@
+candidate_type,entity_name,order_id,item_number,exposure_inr
+category_refunds,Accessories,1038,1,630.00
+category_refunds,Accessories,1081,1,1500.00
+category_refunds,Accessories,1085,2,237.50
+category_refunds,Accessories,1095,2,175.00
+category_refunds,Accessories,1130,2,225.00
+category_refunds,Accessories,1183,2,1200.00
+category_refunds,Accessories,1190,2,237.50
+category_refunds,Accessories,1199,1,475.00
+category_refunds,Electronics,1010,1,1800.00
+category_refunds,Electronics,1035,1,2520.00
+category_refunds,Electronics,1045,1,1800.00
+category_refunds,Electronics,1055,1,1620.00
+category_refunds,Electronics,1075,1,3600.00
+category_refunds,Electronics,1115,1,1620.00
+category_refunds,Electronics,1133,1,1800.00
+category_refunds,Electronics,1138,1,1710.00
+category_refunds,Electronics,1157,2,1620.00
+category_refunds,Electronics,1179,1,640.00
+category_refunds,Electronics,1195,1,1440.00
+category_refunds,Electronics,1203,1,1470.00
+category_refunds,Fitness,1001,1,550.00
+category_refunds,Fitness,1036,2,522.50
+category_refunds,Fitness,1040,2,440.00
+category_refunds,Fitness,1089,1,617.50
+category_refunds,Fitness,1094,2,495.00
+category_refunds,Fitness,1140,1,1200.00
+category_refunds,Fitness,1140,2,550.00
+category_refunds,Fitness,1158,1,495.00
+category_refunds,Fitness,1172,1,1140.00
+category_refunds,Fitness,1203,2,560.00
+category_refunds,Fitness,1207,1,840.00
+category_refunds,Home,1007,2,665.00
+category_refunds,Home,1021,2,765.00
+category_refunds,Home,1046,1,540.00
+category_refunds,Home,1050,1,1187.50
+category_refunds,Home,1081,2,1125.00
+category_refunds,Home,1091,1,1100.00
+category_refunds,Home,1120,1,1125.00
+category_refunds,Home,1171,2,540.00
+region_loss_orders,North,1010,,876.00
+region_loss_orders,North,1035,,2173.50
+region_loss_orders,North,1045,,1021.00
+region_loss_orders,North,1050,,711.00
+region_loss_orders,North,1075,,1361.00
+region_loss_orders,North,1133,,441.00
+region_loss_orders,North,1140,,950.00
+region_loss_orders,North,1172,,440.00
+region_loss_orders,North,1183,,451.00
+region_loss_orders,South,1081,,1641.00
+region_loss_orders,South,1094,,66.00
+region_loss_orders,South,1115,,996.00
+region_loss_orders,South,1120,,760.00
+region_loss_orders,South,1157,,91.00
+region_loss_orders,South,1171,,101.00
+region_loss_orders,South,1179,,416.00
+region_loss_orders,South,1195,,1061.00
+region_loss_orders,South,1207,,406.00
+region_loss_orders,West,1055,,1051.00
+region_loss_orders,West,1138,,806.00
+region_loss_orders,West,1203,,1706.00
+warehouse_shipping_shortfall,North Hub,1001,,26.00
+warehouse_shipping_shortfall,North Hub,1002,,26.00
+warehouse_shipping_shortfall,North Hub,1008,,90.00
+warehouse_shipping_shortfall,North Hub,1009,,11.00
+warehouse_shipping_shortfall,North Hub,1010,,26.00
+warehouse_shipping_shortfall,North Hub,1012,,75.00
+warehouse_shipping_shortfall,North Hub,1017,,36.00
+warehouse_shipping_shortfall,North Hub,1018,,81.00
+warehouse_shipping_shortfall,North Hub,1019,,11.00
+warehouse_shipping_shortfall,North Hub,1020,,60.00
+warehouse_shipping_shortfall,North Hub,1023,,36.00
+warehouse_shipping_shortfall,North Hub,1024,,45.00
+warehouse_shipping_shortfall,North Hub,1028,,100.00
+warehouse_shipping_shortfall,North Hub,1031,,81.00
+warehouse_shipping_shortfall,North Hub,1033,,41.00
+warehouse_shipping_shortfall,North Hub,1035,,11.00
+warehouse_shipping_shortfall,North Hub,1037,,41.00
+warehouse_shipping_shortfall,North Hub,1038,,66.00
+warehouse_shipping_shortfall,North Hub,1040,,45.00
+warehouse_shipping_shortfall,North Hub,1042,,11.00
+warehouse_shipping_shortfall,North Hub,1048,,130.00
+warehouse_shipping_shortfall,North Hub,1050,,11.00
+warehouse_shipping_shortfall,North Hub,1053,,66.00
+warehouse_shipping_shortfall,North Hub,1055,,51.00
+warehouse_shipping_shortfall,North Hub,1057,,26.00
+warehouse_shipping_shortfall,North Hub,1059,,41.00
+warehouse_shipping_shortfall,North Hub,1060,,100.00
+warehouse_shipping_shortfall,North Hub,1061,,11.00
+warehouse_shipping_shortfall,North Hub,1062,,11.00
+warehouse_shipping_shortfall,North Hub,1066,,41.00
+warehouse_shipping_shortfall,North Hub,1068,,75.00
+warehouse_shipping_shortfall,North Hub,1069,,41.00
+warehouse_shipping_shortfall,North Hub,1071,,11.00
+warehouse_shipping_shortfall,North Hub,1072,,100.00
+warehouse_shipping_shortfall,North Hub,1073,,11.00
+warehouse_shipping_shortfall,North Hub,1074,,41.00
+warehouse_shipping_shortfall,North Hub,1075,,26.00
+warehouse_shipping_shortfall,North Hub,1077,,11.00
+warehouse_shipping_shortfall,North Hub,1079,,11.00
+warehouse_shipping_shortfall,North Hub,1080,,45.00
+warehouse_shipping_shortfall,North Hub,1086,,41.00
+warehouse_shipping_shortfall,North Hub,1087,,11.00
+warehouse_shipping_shortfall,North Hub,1088,,75.00
+warehouse_shipping_shortfall,North Hub,1089,,41.00
+warehouse_shipping_shortfall,North Hub,1091,,51.00
+warehouse_shipping_shortfall,North Hub,1092,,75.00
+warehouse_shipping_shortfall,North Hub,1096,,85.00
+warehouse_shipping_shortfall,North Hub,1097,,36.00
+warehouse_shipping_shortfall,North Hub,1098,,26.00
+warehouse_shipping_shortfall,North Hub,1101,,81.00
+warehouse_shipping_shortfall,North Hub,1102,,51.00
+warehouse_shipping_shortfall,North Hub,1103,,11.00
+warehouse_shipping_shortfall,North Hub,1104,,115.00
+warehouse_shipping_shortfall,North Hub,1105,,41.00
+warehouse_shipping_shortfall,North Hub,1106,,11.00
+warehouse_shipping_shortfall,North Hub,1107,,81.00
+warehouse_shipping_shortfall,North Hub,1108,,75.00
+warehouse_shipping_shortfall,North Hub,1111,,11.00
+warehouse_shipping_shortfall,North Hub,1112,,90.00
+warehouse_shipping_shortfall,North Hub,1113,,26.00
+warehouse_shipping_shortfall,North Hub,1117,,41.00
+warehouse_shipping_shortfall,North Hub,1123,,11.00
+warehouse_shipping_shortfall,North Hub,1127,,26.00
+warehouse_shipping_shortfall,North Hub,1128,,45.00
+warehouse_shipping_shortfall,North Hub,1129,,41.00
+warehouse_shipping_shortfall,North Hub,1130,,41.00
+warehouse_shipping_shortfall,North Hub,1133,,41.00
+warehouse_shipping_shortfall,North Hub,1136,,60.00
+warehouse_shipping_shortfall,North Hub,1137,,11.00
+warehouse_shipping_shortfall,North Hub,1138,,36.00
+warehouse_shipping_shortfall,North Hub,1140,,60.00
+warehouse_shipping_shortfall,North Hub,1141,,41.00
+warehouse_shipping_shortfall,North Hub,1143,,41.00
+warehouse_shipping_shortfall,North Hub,1145,,51.00
+warehouse_shipping_shortfall,North Hub,1146,,36.00
+warehouse_shipping_shortfall,North Hub,1148,,90.00
+warehouse_shipping_shortfall,North Hub,1152,,85.00
+warehouse_shipping_shortfall,North Hub,1159,,36.00
+warehouse_shipping_shortfall,North Hub,1160,,130.00
+warehouse_shipping_shortfall,North Hub,1161,,41.00
+warehouse_shipping_shortfall,North Hub,1163,,41.00
+warehouse_shipping_shortfall,North Hub,1166,,41.00
+warehouse_shipping_shortfall,North Hub,1168,,90.00
+warehouse_shipping_shortfall,North Hub,1169,,41.00
+warehouse_shipping_shortfall,North Hub,1170,,26.00
+warehouse_shipping_shortfall,North Hub,1172,,45.00
+warehouse_shipping_shortfall,North Hub,1175,,66.00
+warehouse_shipping_shortfall,North Hub,1177,,26.00
+warehouse_shipping_shortfall,North Hub,1181,,11.00
+warehouse_shipping_shortfall,North Hub,1183,,26.00
+warehouse_shipping_shortfall,North Hub,1186,,51.00
+warehouse_shipping_shortfall,North Hub,1196,,45.00
+warehouse_shipping_shortfall,North Hub,1200,,85.00
+warehouse_shipping_shortfall,North Hub,1204,,100.00
+warehouse_shipping_shortfall,North Hub,1209,,11.00
+warehouse_shipping_shortfall,South Hub,1003,,11.00
+warehouse_shipping_shortfall,South Hub,1004,,45.00
+warehouse_shipping_shortfall,South Hub,1005,,81.00
+warehouse_shipping_shortfall,South Hub,1006,,66.00
+warehouse_shipping_shortfall,South Hub,1011,,11.00
+warehouse_shipping_shortfall,South Hub,1014,,11.00
+warehouse_shipping_shortfall,South Hub,1015,,26.00
+warehouse_shipping_shortfall,South Hub,1016,,60.00
+warehouse_shipping_shortfall,South Hub,1021,,51.00
+warehouse_shipping_shortfall,South Hub,1022,,26.00
+warehouse_shipping_shortfall,South Hub,1027,,51.00
+warehouse_shipping_shortfall,South Hub,1029,,11.00
+warehouse_shipping_shortfall,South Hub,1030,,11.00
+warehouse_shipping_shortfall,South Hub,1032,,115.00
+warehouse_shipping_shortfall,South Hub,1036,,45.00
+warehouse_shipping_shortfall,South Hub,1043,,66.00
+warehouse_shipping_shortfall,South Hub,1046,,41.00
+warehouse_shipping_shortfall,South Hub,1047,,26.00
+warehouse_shipping_shortfall,South Hub,1049,,36.00
+warehouse_shipping_shortfall,South Hub,1052,,75.00
+warehouse_shipping_shortfall,South Hub,1054,,36.00
+warehouse_shipping_shortfall,South Hub,1056,,60.00
+warehouse_shipping_shortfall,South Hub,1058,,26.00
+warehouse_shipping_shortfall,South Hub,1063,,11.00
+warehouse_shipping_shortfall,South Hub,1064,,60.00
+warehouse_shipping_shortfall,South Hub,1065,,51.00
+warehouse_shipping_shortfall,South Hub,1070,,26.00
+warehouse_shipping_shortfall,South Hub,1078,,66.00
+warehouse_shipping_shortfall,South Hub,1081,,41.00
+warehouse_shipping_shortfall,South Hub,1083,,51.00
+warehouse_shipping_shortfall,South Hub,1094,,26.00
+warehouse_shipping_shortfall,South Hub,1095,,26.00
+warehouse_shipping_shortfall,South Hub,1099,,11.00
+warehouse_shipping_shortfall,South Hub,1100,,75.00
+warehouse_shipping_shortfall,South Hub,1110,,51.00
+warehouse_shipping_shortfall,South Hub,1120,,60.00
+warehouse_shipping_shortfall,South Hub,1124,,75.00
+warehouse_shipping_shortfall,South Hub,1125,,66.00
+warehouse_shipping_shortfall,South Hub,1131,,51.00
+warehouse_shipping_shortfall,South Hub,1132,,130.00
+warehouse_shipping_shortfall,South Hub,1135,,26.00
+warehouse_shipping_shortfall,South Hub,1139,,26.00
+warehouse_shipping_shortfall,South Hub,1144,,45.00
+warehouse_shipping_shortfall,South Hub,1149,,51.00
+warehouse_shipping_shortfall,South Hub,1151,,11.00
+warehouse_shipping_shortfall,South Hub,1153,,81.00
+warehouse_shipping_shortfall,South Hub,1154,,26.00
+warehouse_shipping_shortfall,South Hub,1155,,11.00
+warehouse_shipping_shortfall,South Hub,1156,,45.00
+warehouse_shipping_shortfall,South Hub,1157,,41.00
+warehouse_shipping_shortfall,South Hub,1158,,51.00
+warehouse_shipping_shortfall,South Hub,1164,,85.00
+warehouse_shipping_shortfall,South Hub,1167,,41.00
+warehouse_shipping_shortfall,South Hub,1171,,26.00
+warehouse_shipping_shortfall,South Hub,1173,,36.00
+warehouse_shipping_shortfall,South Hub,1176,,60.00
+warehouse_shipping_shortfall,South Hub,1178,,51.00
+warehouse_shipping_shortfall,South Hub,1180,,45.00
+warehouse_shipping_shortfall,South Hub,1184,,45.00
+warehouse_shipping_shortfall,South Hub,1185,,41.00
+warehouse_shipping_shortfall,South Hub,1188,,75.00
+warehouse_shipping_shortfall,South Hub,1189,,41.00
+warehouse_shipping_shortfall,South Hub,1190,,51.00
+warehouse_shipping_shortfall,South Hub,1191,,66.00
+warehouse_shipping_shortfall,South Hub,1192,,90.00
+warehouse_shipping_shortfall,South Hub,1193,,51.00
+warehouse_shipping_shortfall,South Hub,1195,,11.00
+warehouse_shipping_shortfall,South Hub,1197,,26.00
+warehouse_shipping_shortfall,South Hub,1199,,11.00
+warehouse_shipping_shortfall,South Hub,1201,,11.00
+warehouse_shipping_shortfall,South Hub,1203,,36.00
+warehouse_shipping_shortfall,South Hub,1208,,45.00

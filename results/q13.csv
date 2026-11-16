@@ -1,0 +1,5 @@
+band,orders,aov,net_revenue,contribution,margin_pct,purchased_units,returned_units,unit_return_pct,order_return_pct,sample_flag
+none,39,2205.13,80323.00,28518.00,35.50,80,6,7.50,12.82,sufficient_sample
+low,100,2177.53,199718.50,63503.50,31.80,231,21,9.09,19.00,sufficient_sample
+medium,24,1688.33,39254.00,10994.00,28.01,42,3,7.14,12.50,sufficient_sample
+high,14,1854.11,21745.50,1365.50,6.28,34,5,14.71,28.57,sufficient_sample

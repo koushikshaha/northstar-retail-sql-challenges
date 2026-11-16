@@ -1,0 +1,5 @@
+\set ON_ERROR_STOP on
+\ir 01_setup.sql
+\ir 02_reporting_views.sql
+\ir 03_all_30_solutions.sql
+\ir 04_validation.sql

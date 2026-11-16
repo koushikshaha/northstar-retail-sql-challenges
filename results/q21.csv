@@ -1,0 +1,9 @@
+channel,experience,eligible_customers,converters_90d,conversion_pct,median_second_purchase_gap,sample_flag
+Organic,late,3,3,100.00,10,insufficient_sample
+Organic,on_time,8,6,75.00,24,sufficient_sample
+Paid Search,late,1,1,100.00,65,insufficient_sample
+Paid Search,on_time,10,5,50.00,35,sufficient_sample
+Referral,late,6,3,50.00,5,sufficient_sample
+Referral,on_time,5,3,60.00,10,sufficient_sample
+Social,late,3,2,66.67,10,insufficient_sample
+Social,on_time,8,7,87.50,34,sufficient_sample

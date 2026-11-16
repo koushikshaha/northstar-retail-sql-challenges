@@ -1,0 +1,4 @@
+region,orders,charged,cost,subsidy,subsidy_per_order,recovery_pct,positive_all_four_quarters
+West,53,1960.00,5510.00,3550.00,66.98,35.57,t
+North,85,3283.00,5670.00,2387.00,28.08,57.90,t
+South,58,2009.00,3660.00,1651.00,28.47,54.89,t

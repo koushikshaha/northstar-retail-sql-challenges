@@ -1,0 +1,5 @@
+category,h1_paid_value,h2_paid_value,h1_net_revenue,h2_net_revenue,h1_contribution,h2_contribution,h1_margin_pct,h2_margin_pct,paid_value_growth_pct,margin_change_pp,review_flag
+Accessories,28500.00,31845.00,26879.93,30314.90,9713.84,10998.56,36.14,36.28,11.74,0.14,f
+Electronics,68055.00,89257.50,57929.79,80518.62,10007.37,16102.60,17.27,20.00,31.15,2.72,f
+Fitness,50710.00,67782.50,48628.49,63834.55,18891.73,23252.60,38.85,36.43,33.67,-2.42,f
+Home,34367.50,31775.00,29762.29,30898.43,9052.57,11537.73,30.42,37.34,-7.54,6.92,f

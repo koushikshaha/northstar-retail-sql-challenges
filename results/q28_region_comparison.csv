@@ -1,0 +1,4 @@
+region,h1_sales,h2_sales,absolute_sales_change,sales_growth_pct,h1_returning_sales_share_pct,h2_returning_sales_share_pct,returning_share_change_pp
+North,89332.50,98657.50,9325.00,10.44,74.84,87.37,12.53
+South,43032.50,65190.00,22157.50,51.49,38.26,78.29,40.04
+West,49267.50,56812.50,7545.00,15.31,54.58,70.90,16.32

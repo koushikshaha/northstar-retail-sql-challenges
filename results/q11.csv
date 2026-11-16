@@ -1,0 +1,5 @@
+entry_category,eligible_customers,first_order_aov,avg_90d_contribution,second_purchase_90d_pct,sample_flag
+Accessories,8,2011.25,865.56,62.50,sufficient_sample
+Electronics,18,2637.92,1151.25,66.67,sufficient_sample
+Fitness,11,1729.32,1489.73,63.64,sufficient_sample
+Home,8,2055.00,1230.31,75.00,sufficient_sample

@@ -1,0 +1,5 @@
+channel,eligible_customers,avg_90d_paid_value,avg_90d_contribution,median_90d_contribution,avg_90d_orders,repeat_customer_pct,sample_flag
+Organic,12,5444.58,1139.83,1278.00,2.17,75.00,sufficient_sample
+Paid Search,11,3280.68,1219.95,1139.00,1.82,54.55,sufficient_sample
+Referral,11,4340.23,1202.27,958.00,2.18,54.55,sufficient_sample
+Social,11,4859.77,1232.18,1233.00,2.27,81.82,sufficient_sample

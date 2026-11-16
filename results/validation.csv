@@ -1,0 +1,33 @@
+question,check_name,passed
+Q01,Status counts and independently computed annual contribution,t
+Q02,Each delivered order reconciles; 10 worst losses correctly ordered,t
+Q03,Unrounded volume plus basket bridge reconciles,t
+Q04,Category half-year totals and changes reconcile,t
+Q05,March window is precisely Jan-Mar; early windows unavailable,t
+Q06,All allocated contributions reconcile and 80% prefix is minimal,t
+Q07,Two segments per month reconcile orders and sales,t
+Q08,"Cohort bounds, month zero and unobserved cells",t
+Q09,Converters bounded and strict 90-day eligibility,t
+Q10,Windows include first order and exclude day 91,t
+Q11,Entry-category assignment has one customer per eligible cohort member,t
+Q12,All audience conditions and capacity hold,t
+Q13,Mature population partition and returned-unit bounds,t
+Q14,Category allocations reconcile in each half without rounding,t
+Q15,Line scenario lift equals retained-unit discount,t
+Q16,Units versus lines and mature/immature partition,t
+Q17,Regional bridge exactly reconciles,t
+Q18,Common weights total one and regional contributions reconcile,t
+Q19,Eligible late/on-time partition and missing promises,t
+Q20,April baseline uses Jan-Mar pooled eligible counts,t
+Q21,Mature first-promise inclusion/exclusion partitions customers,t
+Q22,Four quarters reconcile to order shipping totals,t
+Q23,Signed buffer directions and complete promise population,t
+Q24,Cancellations reconcile to 13 without altering delivered population,t
+Q25,Unordered unique pairs and independently counted shared baskets,t
+Q26,Purchaser groups and monetary totals reconcile,t
+Q27,All 27 observations; April baselines exclude current month,t
+Q28,Annual type totals reconcile to monthly segmentation,t
+Q29,Scores recalculate and all queued customers have Q4 delay,t
+Q30,Action exposures and affected orders trace to source records,t
+SETUP,"650 rows, expected statuses and coverage",t
+SETUP,"No orphan/missing lines, signup errors or non-delivered returns",t

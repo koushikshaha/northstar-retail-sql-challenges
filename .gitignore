@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.pgpass
+pgpass.conf
+*.pem
+*.key
+*.log
+*.zip
+pgdata/
+work/
+.vscode/
+.DS_Store
+Thumbs.db
